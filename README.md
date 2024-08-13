@@ -60,3 +60,7 @@ Contributions are welcome! If you have suggestions or improvements, please fork 
 ## Acknowledgments
 
 Special thanks to Prodigy Infotech for their support and resources during the development of this project.
+
+## Contact
+
+For any questions or issues, please contact [ojoomoniyidamiloladamilola@gmail.com](http://www.linkedin.com/in/ojo-omoniyi-samuel).
