@@ -30,13 +30,13 @@ To get started with the Password Strength Checker, follow these steps:
 
 2. **Navigate to the Project Directory**:
    ```bash
-   cd https://github.com/ERap2022/PRODIGY_CS_03
+   cd PRODIGY_CS_03
    ```
 
 3. **Run the Application**:
    Ensure you have Python 3.x installed. Run the following command:
    ```bash
-   python password_strength_checker.py
+   python Password Strenght.py
    ```
 
 ## Usage
