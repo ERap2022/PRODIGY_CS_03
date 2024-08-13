@@ -25,12 +25,12 @@ To get started with the Password Strength Checker, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/password-strength-checker.git
+   git clone https://github.com/ERap2022/PRODIGY_CS_03.git
    ```
 
 2. **Navigate to the Project Directory**:
    ```bash
-   cd password-strength-checker
+   cd https://github.com/ERap2022/PRODIGY_CS_03
    ```
 
 3. **Run the Application**:
