@@ -63,4 +63,4 @@ Special thanks to Prodigy Infotech for their support and resources during the de
 
 ## Contact
 
-For any questions or issues, please contact [ojoomoniyidamiloladamilola@gmail.com](http://www.linkedin.com/in/ojo-omoniyi-samuel).
+For any questions or issues, please contact [ojoomoniyidamilola@gmail.com](http://www.linkedin.com/in/ojo-omoniyi-samuel).
